@@ -1,0 +1,16 @@
+{
+  "name": "beca-syntax",
+  "author": "Fernando Soares (@ferspeak)",
+  "theme": "syntax",
+  "version": "1.0.0",
+  "description": "Sexy Syntax Theme for Atom",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/ferspeak/beca-atom-syntax-theme",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
